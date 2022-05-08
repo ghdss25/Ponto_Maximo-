@@ -1,8 +1,8 @@
 ## Sobre o Projeto
 
-    Teve como proposito demonstrar diferentes visões das vendas realizadas nos últimos 4 anos (período de 2012 a 2015). Foi possível segmentar os relatórios de vendas por diferentes informações e por diferentes ângulos. As informações foram suportadas pelas estratégias da empresa para o próximos anos.
+  Teve como proposito demonstrar diferentes visões das vendas realizadas nos últimos 4 anos (período de 2012 a 2015). Foi possível segmentar os relatórios de vendas por diferentes informações e por diferentes ângulos. As informações foram suportadas pelas estratégias da empresa para o próximos anos.
 
-    Foram realizadas diversas reuniões para definição da estratégia de vendas e as análises foram extraidas sob demanda, foi programada um modelo de extração de gráficos que permitiram obter os dados de diferentes ângulos.
+ Foram realizadas diversas reuniões para definição da estratégia de vendas e as análises foram extraidas sob demanda, foi programada um modelo de extração de gráficos que permitiram obter os dados de diferentes ângulos.
 
 ## Detalhes do Projeto
 
